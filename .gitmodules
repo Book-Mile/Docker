@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Book-Mile/backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Book-Mile/frontend.git
